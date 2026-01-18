@@ -1,0 +1,8 @@
+# Datasets
+*.csv
+data/
+datasets/
+
+# Python
+__pycache__/
+*.pyc
